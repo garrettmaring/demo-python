@@ -4,3 +4,5 @@ services:
   tests:
     build: .
     command: pytest --report-log pytest.json
+    volumes:
+      - .:/code
