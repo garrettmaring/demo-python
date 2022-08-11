@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+engi-demo-python = {editable = true, path = "."}
 
 [dev-packages]
 pytest-reportlog = "*"
