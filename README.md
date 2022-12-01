@@ -4,7 +4,7 @@ Skeleton project demonstrating Python and pytest on the Engi network.
 
 ## Install
 
-`pipenv install`
+`pipenv install --dev`
 
 ### Generate requirements
 
